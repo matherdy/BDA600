@@ -1,1 +1,9 @@
 numpy
+pandas
+#os
+#cv2
+plotly
+random
+sklearn
+tqdm
+fastai
