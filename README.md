@@ -1,5 +1,16 @@
 # PythonProject
 
+Descriprtion of the data:
+orgin of the data: https://camelyon16.grand-challenge.org/Data/
+
+Background knowlage:
+https://github.com/basveeling/pcam
+https://www.ncbi.nlm.nih.gov/pubmed/21356829
+https://academic.oup.com/gigascience/article/7/6/giy065/5026175
+
+
+
+
 # Setup for developement:
 
 - Setup a python 3.x venv (usually in `.venv`)
